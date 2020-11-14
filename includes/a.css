@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: auto;
+    background-image: url(../img/a.png);
+    color: #555;
+    background-size: cover;
+    font: 0.8em Arial, Helvetica, "bitstream vera sans", sans-serif;
+}
